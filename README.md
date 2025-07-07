@@ -59,7 +59,10 @@ This Power BI dashboard offers a comprehensive visualization of global video gam
 
 ## 📚 Dataset Source
 
-*(Include a link if you used a public dataset, e.g., Kaggle)*
+**Video Game Sales with Ratings**  
+🔗 [https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+
+It contains video game sales data across various regions, platforms, publishers, and includes critic/user scores.
 
 ---
 

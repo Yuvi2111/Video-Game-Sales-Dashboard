@@ -44,7 +44,7 @@ This Power BI dashboard offers a comprehensive visualization of global video gam
 
 ## 📸 Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/Yuvi2111/Video-Game-Sales-Dashboard/blob/main/powerbi%20project/Screenshot%202025-07-07%20165814.png)
 
 ---
 
